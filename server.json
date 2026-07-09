@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.powerpointengine/powerpoint-engine",
-  "description": "Generate and edit real PowerPoint (.pptx) files: create decks from markdown/markup or a structured template, or replace text in an uploaded .pptx while preserving its layout. Hosted, OAuth 2.1.",
+  "description": "Generate and edit real PowerPoint (.pptx) from AI agents over MCP. Hosted, OAuth 2.1.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/skippdot/powerpoint-engine-mcp",
